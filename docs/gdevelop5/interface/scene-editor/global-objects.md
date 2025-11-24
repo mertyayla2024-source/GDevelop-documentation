@@ -1,4 +1,4 @@
----
+Mert Yayla
 title: Global Objects
 ---
 # Global Objects
